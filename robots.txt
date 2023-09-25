@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /private/      # Evita que los robots accedan a la carpeta "private"
 Disallow: /admin/       # Evita que los robots accedan a la carpeta "admin"
+User-agent: *
+Sitemap: https://github.com/XxAlitokerxX/micuevadigital/sitemap.xml
+Disallow: /paginas-privadas/
 
