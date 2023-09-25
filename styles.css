@@ -1,0 +1,72 @@
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 1200px; /* Ancho máximo del contenido */
+    margin: 110; /* Centrar el contenido horizontalmente */
+    padding: 20px; /* Espaciado interior */
+    display: flex; /* Usar un modelo de caja flexible */
+    flex-direction: column; /* Apilar contenido verticalmente */
+    align-items: center; /* Centrar verticalmente el contenido */
+    text-align: center; /* Centrar horizontalmente el contenido */
+}
+
+/* Estilos para la imagen de encabezado */
+.header-image {
+    width: 100%;
+    height: 700px;
+    background-image: url('XxAlitokerxX-imagen.jpg');
+    background-size: cover;
+    background-position: top center; /* Ajusta la posición a la parte superior */
+    background-repeat: no-repeat;
+
+}
+
+/* Estilos para el menú de navegación */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+}
+
+/* Estilos para el menú desplegable */
+.dropdown {
+    position: relative;
+}
+
+.dropdown ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.dropdown:hover ul {
+    display: block;
+}
+
+/* Estilos para los botones */
+.button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}

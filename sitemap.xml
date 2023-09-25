@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Página de inicio -->
+    <url>
+        <loc>https://www.tudominio.com/index.html</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Página de artículos -->
+    <url>
+        <loc>https://www.tudominio.com/articulos/articulos.html</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Página de noticias -->
+    <url>
+        <loc>https://www.tudominio.com/noticias/noticias.html</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Imagen -->
+    <url>
+        <loc>https://www.tudominio.com/imagenes/XxAlitokerxX-imagen.jpg</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
+
