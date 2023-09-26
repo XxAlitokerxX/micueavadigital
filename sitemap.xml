@@ -7,6 +7,14 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
+ 
+        <!-- Página de artículos -->
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/articulos/Rollercoin_articulo.html</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
     
     <!-- Página de artículos -->
     <url>
@@ -41,4 +49,4 @@
     </url>
 </urlset>
 
-
+Rollercoin_articulo.html
