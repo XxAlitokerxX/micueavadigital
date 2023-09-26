@@ -12,8 +12,30 @@
 /* Estilos para la imagen de encabezado */
 .header-image {
     width: 100%;
-    height: 700px;
+    height: 800px;
     background-image: url('XxAlitokerxX-imagen.jpg');
+    background-size: cover;
+    background-position: top center; /* Ajusta la posición a la parte superior */
+    background-repeat: no-repeat;
+
+}
+
+/* Estilos para la imagen de encabezado articulo nobara project */
+.header-image {
+    width: 100%;
+    height: 800px;
+    background-image: url('articulos/nobara.png');
+    background-size: cover;
+    background-position: top center; /* Ajusta la posición a la parte superior */
+    background-repeat: no-repeat;
+
+}
+
+/* Estilos para la imagen de encabezado articulo rollercoin */
+.header-image {
+    width: 100%;
+    height: 800px;
+    background-image: url('articulos/rollercoin.jpeg');
     background-size: cover;
     background-position: top center; /* Ajusta la posición a la parte superior */
     background-repeat: no-repeat;
