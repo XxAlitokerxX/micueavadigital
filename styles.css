@@ -24,7 +24,7 @@
 .header-image {
     width: 100%;
     height: 800px;
-    background-image: url('articulos/nobara.png');
+    background-image: url('articulos/nobara.jpg');
     background-size: cover;
     background-position: top center; /* Ajusta la posición a la parte superior */
     background-repeat: no-repeat;
