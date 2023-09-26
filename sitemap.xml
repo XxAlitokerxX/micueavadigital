@@ -16,23 +16,7 @@
         <priority>0.8</priority>
     </url>
     
-    <!-- Página de artículos -->
-    <url>
-        <loc>https://github.com/XxAlitokerxX/micuevadigital/articulos/articulos.html</loc>
-        <lastmod>2023-09-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Página de artículos -->
-    <url>
-        <loc>https://github.com/XxAlitokerxX/micuevadigital/articulos/NoBara_progect.html</loc>
-        <lastmod>2023-09-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-
+   
     <!-- Imagen -->
     <url>
         <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/XxAlitokerxX-imagen.jpg</loc>
