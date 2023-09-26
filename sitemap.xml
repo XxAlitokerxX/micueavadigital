@@ -32,13 +32,6 @@
         <priority>0.8</priority>
     </url>
 
-    <!-- Página de noticias -->
-    <url>
-        <loc>https://github.com/XxAlitokerxX/micuevadigital/noticias/noticias.html</loc>
-        <lastmod>2023-09-20</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
 
     <!-- Imagen -->
     <url>
