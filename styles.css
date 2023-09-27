@@ -1,11 +1,10 @@
 /* Estilos para el contenedor principal */
 .container {
-    max-width: 1200px; /* Ancho máximo del contenido */
-    margin: 110; /* Centrar el contenido horizontalmente */
+    max-width: 900px; /* Ancho máximo del contenido */
+    margin: 0 auto; /* Centrar el contenido horizontalmente */
     padding: 20px; /* Espaciado interior */
-    display: flex; /* Usar un modelo de caja flexible */
-    flex-direction: column; /* Apilar contenido verticalmente */
-    align-items: center; /* Centrar verticalmente el contenido */
+    background-color: #00FFFF; /* Fondo blanco */
+    border: 1px solid #ddd; /* Borde */
     text-align: center; /* Centrar horizontalmente el contenido */
 }
 
@@ -14,17 +13,6 @@
     width: 100%;
     height: 800px;
     background-image: url('XxAlitokerxX-imagen.jpg');
-    background-size: cover;
-    background-position: top center; /* Ajusta la posición a la parte superior */
-    background-repeat: no-repeat;
-
-}
-
-/* Estilos para la imagen de encabezado articulo nobara project */
-.header-image {
-    width: 100%;
-    height: 800px;
-    background-image: url('articulos/nobara.png');
     background-size: cover;
     background-position: top center; /* Ajusta la posición a la parte superior */
     background-repeat: no-repeat;
@@ -66,10 +54,10 @@ nav a {
 
 .dropdown ul {
     display: none;
-    position: absolute;
+    position: center;
     top: 100%;
     left: 0;
-    background-color: #fff;
+    background-color: #00FFFF;
     border: 1px solid #ddd;
     padding: 10px;
 }
@@ -81,7 +69,7 @@ nav a {
 /* Estilos para los botones */
 .button {
     background-color: #007bff;
-    color: #fff;
+    color: #00FFFF;
     border: none;
     border-radius: 5px;
     padding: 5px 10px;
