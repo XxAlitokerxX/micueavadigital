@@ -47,6 +47,10 @@ nav a {
     color: #000000;
 }
 
+.dropdown:hover ul {
+    display: block;
+}
+
 /* Estilos para el menú desplegable */
 .dropdown {
     position: relative;
@@ -62,9 +66,6 @@ nav a {
     padding: 10px;
 }
 
-.dropdown:hover ul {
-    display: block;
-}
 
 /* Estilos para los botones */
 .button {
@@ -80,3 +81,15 @@ nav a {
 .button:hover {
     background-color: #0056b3;
 }
+
+
+/* Estilos para ocultar el menú desplegable por defecto */
+.dropdown-content {
+  display: none;
+}
+
+/* Estilos para mostrar el menú desplegable cuando se hace clic en el botón */
+.dropdown.active .dropdown-content {
+  display: block;
+}
+
