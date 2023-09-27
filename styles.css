@@ -30,6 +30,17 @@
 
 }
 
+/* Estilos para la imagen de encabezado articulo rollercoin */
+.header-image {
+    width: 100%;
+    height: 800px;
+    background-image: url('XxAlitokerxX-imagen1.jpg');
+    background-size: cover;
+    background-position: top center; /* Ajusta la posición a la parte superior */
+    background-repeat: no-repeat;
+
+}
+
 /* Estilos para el menú de navegación */
 nav ul {
     list-style: none;
