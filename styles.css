@@ -1,26 +1,21 @@
-/* Estilos para el contenedor principal */
+/* Estilo para el contenedor principal */
 .container {
-    max-width: 900px; /* Ancho máximo del contenido */
-    margin: 0 auto; /* Centrar el contenido horizontalmente */
-    padding: 20px; /* Espaciado interior */
-    text-align: center; /* Centrar horizontalmente el contenido */
-    animation: changeColor 3600s infinite; /* Animación de cambio de colores (60 minutos) */
-    background-color: #D3D3D3; /* Fondo blanco por defecto */
-    border: 1px solid #ddd; /* Borde */
+    max-width: 900px; /* Limita el ancho del contenido */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    padding: 20px; /* Añade un espacio interior */
+    text-align: center; /* Alinea el contenido al centro */
+    animation: changeColor 30s infinite; /* Cambia los colores cada 30 segundos */
+    background-color: #C0C0C0; /* Fondo de un gris muy claro */
+    border: 1px solid #DDD; /* Borde sutil */
+    transition: background-color 0.5s ease-in-out; /* Transición suave del color de fondo */
 }
 
 @keyframes changeColor {
     0%, 100% {
-        background-color: #D3D3D3; /* Blanco perla oscuro */
-    }
-    33% {
-        background-color: #FFCFCF; /* Rojo claro */
-    }
-    66% {
-        background-color: #CFE3FF; /* Azul claro */
+        background-color: #C0C0C0; /* Gris muy claro */
     }
     50% {
-        background-color: #CFFFCF; /* Verde claro */
+        background-color: #ADD8E6; /* Azul pastel */
     }
 }
 
