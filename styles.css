@@ -3,10 +3,28 @@
     max-width: 900px; /* Ancho máximo del contenido */
     margin: 0 auto; /* Centrar el contenido horizontalmente */
     padding: 20px; /* Espaciado interior */
-    background-color: #00FFFF; /* Fondo blanco */
-    border: 1px solid #ddd; /* Borde */
     text-align: center; /* Centrar horizontalmente el contenido */
+    animation: changeColor 3600s infinite; /* Animación de cambio de colores (60 minutos) */
+    background-color: #D3D3D3; /* Fondo blanco por defecto */
+    border: 1px solid #ddd; /* Borde */
 }
+
+@keyframes changeColor {
+    0%, 100% {
+        background-color: #D3D3D3; /* Blanco perla oscuro */
+    }
+    33% {
+        background-color: #FFCFCF; /* Rojo claro */
+    }
+    66% {
+        background-color: #CFE3FF; /* Azul claro */
+    }
+    50% {
+        background-color: #CFFFCF; /* Verde claro */
+    }
+}
+
+
 
 /* Estilos para la imagen de encabezado */
 .header-image {
