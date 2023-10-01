@@ -10,13 +10,33 @@
  
         <!-- Página de artículos -->
     <url>
-        <loc>https://github.com/XxAlitokerxX/micuevadigital/articulos/Rollercoin_articulo.html</loc>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/Rollercoin_articulo.html</loc>
         <lastmod>2023-09-20</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
-   
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/La ia.html</loc>
+        <lastmod>2023-10-1</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/presentacion.html</loc>
+        <lastmod>2023-10-1</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/Descifrando la Agenda 20-30.html</loc>
+        <lastmod>2023-10-1</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
     <!-- Imagen -->
     <url>
         <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/XxAlitokerxX-imagen.jpg</loc>
@@ -24,6 +44,36 @@
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
-</urlset>
 
-Rollercoin_articulo.html
+
+
+   <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/robot-thinking.jpeg</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    
+   <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/misetup.jpg</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/Agenda 20-30.jpeg</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+  
+    <url>
+        <loc>https://github.com/XxAlitokerxX/micuevadigital/imagenes/paypal_donaciones.jpg</loc>
+        <lastmod>2023-09-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
